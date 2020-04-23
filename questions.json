@@ -3,154 +3,154 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
+		            "question" : "In twitch, which tekken streamer subs considered stupid and made fun out of all the time?",
 		            "content" : [
-		                "Tag",
-		                "Simon Says",
-		                "Charades",
-		                "Hopscotch"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "On a radio, stations are changed by using what control?",
-		            "content" : [
-		                "Tuning",
-		                "Volume",
-		                "Bass",
-		                "Treble"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "Which material is most dense?",
-		            "content" : [
-		                "Silver",
-		                "Styrofoam",
-		                "Butter",
-		                "Gold"
+		                "TheMainMan subs",
+		                "Murray subs",
+		                "Mirio subs",
+		                "Aris subs"
 		            ],
 		            "correct" : 3
 		        },
 		        {
-		            "question" : "Which state in the United States is largest by area?",
+		            "question" : "Which following player has made the most impact in FGC in 2019?",
 		            "content" : [
-		                "Alaska",
-		                "California",
-		                "Texas",
-		                "Hawaii"
+		                "LowHigh",
+		                "JDCR",
+		                "Lil Majin",
+		                "Arslan Ash"
 		            ],
-		            "correct" : 0
+		            "correct" : 3
 		        },
 		        {
-		            "question" : "What is Aurora Borealis commonly known as?",
+		            "question" : "Which character has the fastest move in TEKKEN 7 and what is the frame of it?",
 		            "content" : [
-		                "Fairy Dust",
-		                "Northern Lights",
-		                "Book of ages",
-		                "a Game of Thrones main character"
+		                "Feng: i8",
+		                "Yoshimitsu: i8",
+		                "Yoshimitsu: i6",
+		                "Xiaoyu: i6"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of these following characters are not rivalry against each other?",
+		            "content" : [
+		                "Yoshimitsu - Bryan",
+		                "Jin - Lars",
+		                "Kazuya - Heihachi",
+		                "Nina - Anna"
 		            ],
 		            "correct" : 1
 		        },
+		        {
+		            "question" : "In a TWT tournament, how much point do you get for winning a \"Master\" event? ",
+		            "content" : [
+		                "300",
+		                "350",
+		                "500",
+		                "550"
+		            ],
+		            "correct" : 0
+		        },
 				{
-				    "correct": 3,
+				    "correct": 1,
 				    "content": [
-				        "developed the telescope",
-				        "discovered four satellites of Jupiter",
-				        "discovered that the movement of pendulum produces a regular time measurement",
-				        "All of the above"
+				        "TEKKEN 7",
+				        "TEKKEN Tag Tournament 2",
+				        "TEKKEN Hybrid",
+				        "TEKKEN 5"
 				    ],
-				    "question": "Galileo was an Italian astronomer who"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "the infrared light kills bacteria in the body",
-				        "resistance power increases",
-				        "the pigment cells in the skin get stimulated and produce a healthy tan",
-				        "the ultraviolet rays convert skin oil into Vitamin D"
-				    ],
-				    "question": "Exposure to sunlight helps a person improve his health because"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "a club or a local sport association for remarkable achievements",
-				        "amateur athlete, not necessarily an Olympian",
-				        "National Olympic Committee for outstanding work",
-				        "None of the above"
-				    ],
-				    "question": "Sir Thomas Fearnley Cup is awarded to"
+				    "question": "Currently, which TEKKEN game has the most characters?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "1968",
-				        "1929",
-				        "1901",
-				        "1965"
+				        "Hopkick",
+				        "Snake edge",
+				        "Hellsweep",
+				        "Soccer kick"
 				    ],
-				    "question": "Oscar Awards were instituted in"
+				    "question": "What is the generic name for the low launcher moves that you are expected to see & launch punish?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "1998",
-				        "1989",
-				        "1979",
-				        "1800"
+				        "10",
+				        "12",
+				        "15",
+				        "18"
 				    ],
-				    "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "15th April",
-				        "12th December",
-				        "1st May",
-				        "1st August"
-				    ],
-				    "question": "When is the International Workers' Day?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "1962",
-				        "1963",
-				        "1964",
-				        "1965"
-				    ],
-				    "question": "When did China test their first atomic device?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "1904",
-				        "1905",
-				        "1908",
-				        "1909"
-				    ],
-				    "question": "When did Commander Robert Peary discover the North Pole?"
+				    "question": "Which following option is closest to being the speed/frame of a generic d/f+2 move?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "819/sq. km",
-				        "602/sq. km",
-				        "415/sq. km",
-				        "500/sq. km"
+				        "Marshal is Forest's father",
+				        "Forest is Marshal's father",
+				        "They are old best friends",
+				        "They are brothers"
 				    ],
-				    "question": "What is the population density of Kerala?"
+				    "question": "What is the relationship between Forest Law and Marshal Law?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "TEKKEN Team Battle",
+				        "TEKKEN K.O",
+				        "TEKKEN Bowling",
+				        "TEKKEN Ball"
+				    ],
+				    "question": "What was the name of the extra game mode in TEKKEN 3?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Abel del Maestro",
+				        "Mikio",
+				        "Pekos",
+				        "Kagemaru"
+				    ],
+				    "question": "Which following player is known by his amazing comeback at MasterCup 9?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Lee",
+				        "Julia",
+				        "Baek",
+				        "Combot"
+				    ],
+				    "question": "Which following character was not included in TEKKEN 4?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "4 km",
-				        "25 km",
-				        "500 m to 9 km",
-				        "150 km"
+				        "Devil Jin: SS2",
+				        "Panda: FF2 into RD",
+				        "Hwoarang: Skyrocket ",
+				        "King: Atlas Hammer (Counter Hit)"
 				    ],
-				    "question": "What is the range of missile 'Akash'?"
+				    "question": "Which move make opponents go higher?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "df+1",
+				        "qcb+3",
+				        "1",
+				        "SS3"
+				    ],
+				    "question": "What was the last move Knee used against Arslan Ash at TWT Finals 2019, before he \"guarenteed\" his spot at TOP 8?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Spring kick",
+				        "Akuma DP",
+				        "Hopkick",
+				        "Hwoarang b1"
+				    ],
+				    "question": "Who would win in a FT50?"
 				}
 		    ]
 		},
