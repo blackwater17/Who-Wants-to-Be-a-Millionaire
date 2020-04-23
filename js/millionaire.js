@@ -168,8 +168,8 @@ var MillionaireModel = function(data) {
 // being created
 $(document).ready(function() {
 	$.getJSON("questions.json", function(data) {
-		for(var i = 1; i <= data.games.length; i++) {
-			$("#problem-set").append('<option value="' + i + '">' + i + '</option>');
+		for(var i = 1; i <= data.games.length-4; i++) {
+			$("#problem-set").append('<option value="' + i + '">' + "TEKKEN 7" + '</option>');
 		}
 		$("#pre-start").show();
 		$("#start").click(function() {
